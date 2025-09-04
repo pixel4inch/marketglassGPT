@@ -290,3 +290,13 @@
 }
 
 }
+
+@media (max-width: 480px) {
+
+.brand-logo {
+  width: 200px;
+  height: auto;
+  object-fit: contain;
+}
+
+}
